@@ -43,7 +43,7 @@ These outline the steps I used to go through in order to get up and running with
 
 ### Install and Setup :
 
-<b>Step 1.</b> Clone this repository: https://github.com/Pantd007/Car-Number-Plate-Detection
+<b>Step 1.</b> Clone this repository: https://github.com/mk-prithiviwasi/Real-Time-number-plate-detection
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
